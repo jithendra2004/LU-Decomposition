@@ -8,10 +8,10 @@ To write a program to find the LU Decomposition of a matrix.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.import numpy as np 
+2.get the input  
+3.run the program 
+4.stop the program
 
 ## Program:
 ```
@@ -46,10 +46,10 @@ To write a program to find the LU Decomposition of a matrix.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.import numpy as np 
+2.get the input  
+3.run the program 
+4.stop the program 
 
 ## Program:
 ```
