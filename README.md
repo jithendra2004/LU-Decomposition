@@ -30,7 +30,7 @@ print(U)
 ```
 
 ## Output:
-![lu decomposition](lu output.png)
+![lu decomposition](https://github.com/jithendra2004/LU-Decomposition/blob/main/lu%20output.png?raw=true)
 
 
 ## Result:
